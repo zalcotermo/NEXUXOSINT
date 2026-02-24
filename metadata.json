@@ -1,0 +1,5 @@
+{
+  "name": "Nexus OSINT Intelligence Suite",
+  "description": "Advanced multi-modular OSINT investigation platform for phone, email, social media, and geolocation intelligence.",
+  "requestFramePermissions": ["geolocation"]
+}
